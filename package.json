@@ -1,0 +1,21 @@
+{
+    "name": "grayscale",
+    "displayName": "grayscale",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "grayscale",
+                "uiTheme": "vs-dark",
+                "path": "./themes/grayscale-color-theme.json"
+            }
+        ]
+    }
+}
